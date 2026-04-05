@@ -39,7 +39,7 @@ These are the technologies I've shipped production code with:
 
 🔧 [**FlowForge**](https://github.com/Sachin-sharma32/flowforge) — A visual workflow automation platform (think n8n/Zapier). Drag-and-drop pipeline builder with a StepFactory execution engine, real-time monitoring via Redis pub/sub + Socket.io, and multi-tenant RBAC. Built with Next.js 14, Express, TypeScript, MongoDB, BullMQ, and React Flow. Actively improving and working toward deployment.
 
-🛠️ **Rule Engine Dashboard** *(coming soon)* — A focused showcase of the event-driven rule engine architecture I built at Magnifi, featuring configurable pipelines and real-time processing status.
+🛠️ **Rule Engine Dashboard** — A focused showcase of the event-driven rule engine architecture I built at Magnifi, featuring configurable pipelines and real-time processing status.
 
 📚 Deepening my knowledge of system design, Next.js, and advanced TypeScript patterns through a structured technical deep-dive.
 
