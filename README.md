@@ -19,6 +19,14 @@ At **VideoVerse (Magnifi)** — a multi-tenant video SaaS platform for sports co
 - **E2E testing infrastructure** with Playwright across critical user flows
 - **Redis caching layer** for session management and performance optimization
 
+At **Reddhr (HR Tech)** — where I returned on a freelance contract to extend their recruitment platform:
+
+- **Recruitment dashboards & component library** — Built responsive React 18 + TypeScript interfaces and a reusable component library for candidate tracking and reporting views
+- **Complex async state** managed with Redux Toolkit and RxJS epics — debounced search, request cancellation, and multi-step forms
+- **REST APIs** with Node.js and MongoDB/Mongoose for candidate, job posting, and pipeline data, secured with JWT auth and role-based access control
+- **Live pipeline updates** via Socket.io so multiple recruiters could see candidate status changes in real time
+- **Frontend performance & accessibility** — code-splitting, memoization, lazy loading, and ARIA enhancements
+
 ---
 
 ### Tech Stack
@@ -37,11 +45,7 @@ These are the technologies I've shipped production code with:
 
 ### Currently Working On
 
-🔧 [**FlowForge**](https://github.com/Sachin-sharma32/flowforge) — A visual workflow automation platform (think n8n/Zapier). Drag-and-drop pipeline builder with a StepFactory execution engine, real-time monitoring via Redis pub/sub + Socket.io, and multi-tenant RBAC. Built with Next.js 14, Express, TypeScript, MongoDB, BullMQ, and React Flow. Actively improving and working toward deployment.
-
-🛠️ **Rule Engine Dashboard** — A focused showcase of the event-driven rule engine architecture I built at Magnifi, featuring configurable pipelines and real-time processing status.
-
-📚 Deepening my knowledge of system design, Next.js, and advanced TypeScript patterns through a structured technical deep-dive.
+🔖 [**Marginalia**](https://github.com/Sachin-sharma32/highlighter) — A modern web highlighter that turns the web into something you can write in the margins of. Highlight any page or YouTube video from a Chrome extension (Manifest V3), then search, tag, and organise everything in a real-time dashboard with notes, whiteboards, collections, and to-dos. Built with React 19, TypeScript, Convex (reactive backend), Lexical, tldraw, and Razorpay, with Playwright E2E coverage across both the dashboard and the loaded extension.
 
 ---
 
